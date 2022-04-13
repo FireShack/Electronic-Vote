@@ -2,7 +2,7 @@
 
 A Python vote system developed with Tkinter, a package for Desktop apps. For the DB was used MySQL.  
 
-# Use it
+## Use it
 
 1. Copy this repository
 2. I used WAMP, but you can install it or use another way to connect to the database
